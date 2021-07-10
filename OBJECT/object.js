@@ -43,7 +43,7 @@ class Admin extends {
 }
 */
 
-/*
+
 const ul = document.getElementById('candidates')
 fetch('https://randomuser.me/api/?results=10')
     .then((resp) => resp.json()) 
@@ -67,10 +67,10 @@ fetch('https://randomuser.me/api/?results=10')
     });
       
 })  .catch((error) => console.log(error));;
-*/
+
 
 //HANDLING POST REQUESTS
-let data = {
+/*let data = {
     name: 'Micheal Angelo',
 };
 
@@ -82,4 +82,4 @@ button.addEventListener('click', () => {
     .then(function (data) {
         console.log(data);
     });
-});
+});*/
